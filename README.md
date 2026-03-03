@@ -36,7 +36,7 @@ A responsive and dynamic web application that provides real-time weather updates
 
 1.  **Clone the repository**:
     ```bash
-    git clone [https://github.com/your-username/weather-app.git](https://github.com/your-username/weather-app.git)
+    git clone [https://github.com/05adi/weather-app.git](https://github.com/05adi/weather-app.git)
     ```
 2.  **Add your API Key**:
     * Open `index.js`.
